@@ -4,35 +4,34 @@ let categories = [
     img: "boy.png",
   },
   {
-    title: "Work",
+    title: "Asimov",
     img: "briefcase.png",
   },
   {
-    title: "Shopping",
+    title: "Unifei",
     img: "shopping.png",
   },
   {
-    title: "Coding",
+    title: "Programação",
     img: "web-design.png",
   },
   {
-    title: "Health",
+    title: "Saúde",
     img: "healthcare.png",
   },
   {
-    title: "Fitness",
+    title: "FronTiers",
     img: "dumbbell.png",
   },
   {
-    title: "Education",
+    title: "Documentação",
     img: "education.png",
   },
   {
-    title: "Finance",
+    title: "Financeiro",
     img: "saving.png",
   },
 ];
-
 let tasks = [
   {
     id: 1,
